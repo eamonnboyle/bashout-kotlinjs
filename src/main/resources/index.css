@@ -1,0 +1,43 @@
+.game-canvas {
+  background: grey;
+  height: 70vh;
+  width: 70vw;
+  margin: auto;
+  padding: 2.5vh;
+}
+
+.title {
+  font-size: 4em ;
+  text-align: center;
+}
+
+Canvas {
+  background: black;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.centered {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translate(-50%, 50%);
+  transform: translate(-50%, -50%);
+  left: 50%;
+}
+
+.play-button {
+  display: block;
+  width: 100%;
+  padding: 0.25em;
+  margin-bottom: 1em;
+  font-size: 1.5em ;
+}
+
+img {
+  margin: auto;
+  width: 50vw;
+}

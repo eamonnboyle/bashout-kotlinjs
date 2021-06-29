@@ -1,0 +1,11 @@
+2Y 1W 1B 1C 1M 1Y 1R 1G 1W 1B -- -- -- -- -- -- -- -- -- --
+2Y 1W 1B 1C 1M 1Y 1R 1G 1W 1B 1C -- -- -- -- -- -- -- -- --
+2Y 1W 1B 1C 1M 1Y 1R 1G 1W 1B 1C 1M -- -- -- -- -- -- -- --
+2Y 1W 1B 1C 1M 1Y 1R 1G 1W 1B 1C 1M 1Y -- -- -- -- -- -- --
+2Y 1W 1B 1C 1M 1Y 1R 1G 1W 1B 1C 1M 1Y 1R -- -- -- -- -- --
+2Y 1W 1B 1C 1M 1Y 1R 1G 1W 1B 1C 1M 1Y 1R 1G -- -- -- -- --
+2Y 1W 1B 1C 1M 1Y 1R 1G 1W 1B 1C 1M 1Y 1R 1G 1W -- -- -- --
+2Y 1W 1B 1C 1M 1Y 1R 1G 1W 1B 1C 1M 1Y 1R 1G 1W 1B -- -- --
+2Y 1W 1B 1C 1M 1Y 1R 1G 1W 1B 1C 1M 1Y 1R 1G 1W 1B 1C -- --
+2Y 1W 1B 1C 1M 1Y 1R 1G 1W 1B 1C 1M 1Y 1R 1G 1W 1B 1C 1M --
+3Y 3Y 3Y 3Y 3Y 3Y 3Y 3Y 3Y 3Y 3Y 3Y 3Y 3Y 3Y 3Y 3Y 3Y 3Y 1R
